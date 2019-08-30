@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Iwoba Tariah's Resume</title>
+        <link href="https://fonts.googleapis.com/css?family=source+sans+pro:300,400,600" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <section>
+                <div>
+                  <div><img src="img/image.jpg" alt="avatar" class="avatar"></div>
+                </div>
+                <div>
+                    <div class="my-name">Iwoba Tariah T.</div>
+                    <div class="my-title">Writer and Content Creator</div>
+                    <div class="address">Ikota Villa Estate, Ikota, Lagos State</div>
+                    <div class="email">tariahiwoba@gmail.com</div>
+                    <div class="phone-no">07035482252</div>
+
+                    <p>I am a relentless learner, with experience of working as part of a team and also alone, with less or no supervision. I have the ability to think, act and produce timely results. I am currently seeking to gain knowledge in software development and experience whilst working with the organization to reach their goal.</p>
+                </div>
+            </section>
+        </div>
+
+            <section>
+                <div class="section-title">Experience</div>
+                <div>
+                    <div class="job">
+                        <div class="job-title-container">
+                        <div>
+                        <div class="job-company">Laila's News</div>
+                        <div class="job-title">Head of Content/Social Media Manager</div>
+                        </div>
+                        <div>
+                            Jan 2018 - Present
+                        </div>
+                    </div> <!-- end job-title-container -->
+                    <p>
+                            <ul>
+                              <li> - Promoted after 1 year and 4 months for exceeding goals and supporting company culture </li>
+                              <li> - Create content for the blog and Social Media platforms. </li>
+                              <li> - Manage writers and ensure they post breaking stories. </li>
+                              <li> - Planning and executing social media content and activities. </li>
+                              <li> - Planning, designing and implementing marketing campaigns/brand awareness for clients. </li>
+                              <li> - Engaging online followers and driving conversations daily. </li>
+                            </ul>
+                          </p>
+                    </div> <!-- end job -->
+                </div>
+            </section>
+
+            <section>
+                    <div class="section-title">Education</div>
+                    <div>
+                        <div class="job">
+                            <div class="job-title-container">
+                            <div>
+                            <div class="job-company">Ignatius Ajuru University of Education</div>
+                            <div class="job-title">B.Sc Political Science</div>
+                            </div>
+                            <div>
+                                Oct 2010 - Jan 2015
+                            </div>
+                        </div> <!-- end school-title-container -->
+                        <p>
+                            <ul>
+                                <li>Second Class - Upper Division</li>
+                            </ul>
+                        </p>
+                        </div> <!-- end school -->
+                    </div>
+                </section>
+
+                <section>
+                    <div class="section-title">Skills</div>
+                    <div>
+                        <div class="skills-container">
+                            <div>
+                            <ul>
+                                <li> - Ability to work without supervision.</li>
+                                <li> - Good presentation skills.</li>
+                                <li> - Critical thinking and problem solving skills.</li>
+                                <li> - Basic knowledge of HTML.</li>
+                                <li> - Basic understanding of CSS</li>
+                            </ul>
+                            </div>
+                        </div> <!-- end css container -->
+                    </div>
+                </section>
+
+                <section>
+                    <div class="section-title">Other Experiences</div>
+                    <div>
+                        <div class="Other-Experiences-container">
+                            <div>
+                            <ul>
+                                <li> Social Media Manager, Retro Lounge </li>
+                                <li> Writer, Lists NG </li>
+                            </ul>
+                            </div>
+                        </div> <!-- end other experiences -->
+                    </div>
+                </section>
+
+                <section>
+                    <div class="section-title">References</div>
+                    <div>
+                    <div class="References-container">
+                        <div>
+                        <p> Available on Request </p>
+                        </div>
+                    </div> <!-- end of  references-->
+                </div>
+                </section>
+        </div>
+    </body>
+</html>
